@@ -28,6 +28,17 @@ public class Principal {
         int despesas = agua + luz + gas + fibra;
         
        System.out.println("Sao " + despesas + "€");
+	
+       for( int i = 1 ; i < 100; i--){
+    	   
+    	   System.out.println(i);
+    	   
+       }
+	
+	
+	
 	}
+	
+	
 
 }
